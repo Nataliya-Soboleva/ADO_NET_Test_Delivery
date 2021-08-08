@@ -1,0 +1,7 @@
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\bin\Debug\Delivery_ADO.exe.config
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\bin\Debug\Delivery_ADO.exe
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\bin\Debug\Delivery_ADO.pdb
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\obj\Debug\Delivery_ADO.csprojAssemblyReference.cache
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\obj\Debug\Delivery_ADO.csproj.CoreCompileInputs.cache
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\obj\Debug\Delivery_ADO.exe
+D:\Nata\ШАГ\ADO.NET\Soboleva_PV921_Exam_ADO.net\Delivery_ADO\Delivery_ADO\obj\Debug\Delivery_ADO.pdb
